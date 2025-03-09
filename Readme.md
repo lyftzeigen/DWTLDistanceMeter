@@ -48,4 +48,4 @@ python main.py
 
 ## Изображение окна программы
 
-![Окно программы](./images/screen.png)
+![Окно программы](./images/screen.jpg)
